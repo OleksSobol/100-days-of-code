@@ -2,7 +2,7 @@
 
 ### Day 3: February 16, 2018 
 
-**Today's Progress**: My new project is client/ server application for hotel bussiness. "HotelSplit" - app for front desk/ superviser/ room attendent. 
+**Today's Progress**: My new project is client/ server application for hotel bussiness. "HotelSplit" - app for front desk/ superviser/ room attendent. Keep working on client side!
 
 **Thoughts:** That's gonna take a while))). 
 
