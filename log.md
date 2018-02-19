@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: February 18, 2018 
+
+**Today's Progress**: Learnt Node.js  Modules, File System, URL Module, NPM, Events. Play aroud with the code! Also looked up how to Build cross platform desktop apps with JavaScript, HTML, and CSS with Electron framework.
+ 
+**Thoughts:** Actually thinking about making android app with Electron))). 
+
 ### Day 4: February 17, 2018 
 
 **Today's Progress**: Started learning Node.js. Got stuck with database. MySql vs MongoDB???!
