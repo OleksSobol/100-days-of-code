@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: February 17, 2018 
+
+**Today's Progress**: Started learning Node.js. Got stuck with database. MySql vs MongoDB???!
+
+**Thoughts:** I have a lot to learn before I can even code good). 
+
+
 ### Day 3: February 16, 2018 
 
 **Today's Progress**: My new project is client/ server application for hotel bussiness. "HotelSplit" - app for front desk/ superviser/ room attendent. Keep working on client side!
