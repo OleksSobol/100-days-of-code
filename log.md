@@ -5,6 +5,7 @@
 **Today's Progress**:TOday I decided to go away a little bit from my ideas and returned back to FreeCodeCamp to finish  Twitchtv JSON API project. And I actually used W3.CSS framework instead of Bootstrap for design.
  
 **Thoughts:** Got stuck on nested Arrays JSON, for some reason it's just not going into my head. I thought it would take me longer),[9:02 - start]: [11:57 - finish].
+
 **Link to work:** [FCC TWITCH](https://codepen.io/OleksSobol/pen/paLjqv)
 
 ### Day 5: February 18, 2018 
