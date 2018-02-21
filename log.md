@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: February 20, 2018 
+
+**Today's Progress**: Today I did Intermediate Algorithm Scripting from FreeCodeCamp. Feels so good when program work from first start =)
+**Thoughts:** Starting understand when people told me to read documentation))))  
+**Link to Doc:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 ### Day 6: February 19, 2018 
 
 **Today's Progress**:TOday I decided to go away a little bit from my ideas and returned back to FreeCodeCamp to finish  Twitchtv JSON API project. And I actually used W3.CSS framework instead of Bootstrap for design.
