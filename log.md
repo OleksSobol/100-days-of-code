@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 21, 2018 
+
+**Today's Progress**: Today I did some Algorithm Scripting from FreeCodeCamp as same yesterday.
+**Thoughts:** I do not feel like I am doing a lot of coding. I know can do it better.  
+
 
 ### Day 7: February 20, 2018 
 
