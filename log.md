@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 9: Fubruary 22, 2018
+**ToDay's Progress:** Finally finished Diff Two Arrays problem from @freecodecamp, took me two days, just insane, I just could not get it, read all over documentation and finally got it! After all I did 3 more problems) 
+**Thoughts:** Still spending too much time for other sh*t;
+
 ### Day 8: February 21, 2018 
 
 **Today's Progress**: Today I did some Algorithm Scripting from FreeCodeCamp as same yesterday.
