@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 10: Fubruary 23, 2018
+**Today's Progress:** Learnt CSS Variable from [Scrimba](https://scrimba.com/p/ppYrcJ/cKkKrhL); finished couple more task from FreeCodeCamp) 
+**Thoughts:** I understand why I am doing this, cause I want more! 
+
+
 ### Day 9: Fubruary 22, 2018
 **ToDay's Progress:** Finally finished Diff Two Arrays problem from @freecodecamp, took me two days, just insane, I just could not get it, read all over documentation and finally got it! After all I did 3 more problems) 
 **Thoughts:** Still spending too much time for other sh*t;
