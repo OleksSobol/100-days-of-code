@@ -2,6 +2,7 @@
 
 ### Day 10: Fubruary 23, 2018
 **Today's Progress:** Learnt CSS Variable from [Scrimba](https://scrimba.com/p/ppYrcJ/cKkKrhL); finished couple more task from FreeCodeCamp) 
+
 **Thoughts:** I understand why I am doing this, cause I want more! 
 
 
@@ -12,13 +13,16 @@
 ### Day 8: February 21, 2018 
 
 **Today's Progress**: Today I did some Algorithm Scripting from FreeCodeCamp as same yesterday.
+
 **Thoughts:** I do not feel like I am doing a lot of coding. I know can do it better.  
 
 
 ### Day 7: February 20, 2018 
 
 **Today's Progress**: Today I did Intermediate Algorithm Scripting from FreeCodeCamp. Feels so good when program work from first start =)
+
 **Thoughts:** Starting understand when people told me to read documentation))))  
+
 **Link to Doc:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
