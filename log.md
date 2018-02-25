@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 11: Fubruary 24, 2018
+**Today's Progress:** Keep working on freecodecamp "Wherefore art thou" task. Really good, make my brain itchy) 
+
+**Thoughts:** Hard to find time to code after 2 jobs, I have only 1 before midnight. That's my hour! 
+
+
 ### Day 10: Fubruary 23, 2018
 **Today's Progress:** Learnt CSS Variable from [Scrimba](https://scrimba.com/p/ppYrcJ/cKkKrhL); finished couple more task from FreeCodeCamp) 
 
