@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 12: Fubruary 25, 2018
+**Today's Progress:** Basically keeping working on freecodecamp. Learnt more about JS Object's methods.
+
+**Thoughts:** -;
+
 ### Day 11: Fubruary 24, 2018
 **Today's Progress:** Keep working on freecodecamp "Wherefore art thou" task. Really good, make my brain itchy) 
 
