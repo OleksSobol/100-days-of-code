@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 13: Fubruary 26, 2018
+**Today's Progress:** Worked on task from freecodecamp. I was trying to understand better Regular Expressions. Read (Robust Client-Side JavaScript)[https://molily.de/robust-javascript/];
+
+**Thoughts:** SO much to learn, if I will keep learning stuff, I will not have to time to look for a job);
 
 
 ### Day 12: Fubruary 25, 2018
