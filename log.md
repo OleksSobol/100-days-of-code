@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-
+### Day 15: Fubruary 28, 2018
+**Today's Progress:** Enrolled in (Udemy cource) [https://www.udemy.com/the-web-developer-bootcamp/l]. I have a lot to do now) 
+15/ #100DaysOfCode 
 
 ### Day 14: Fubruary 27, 2018
 **Today's Progress:** Half way through to finish Intermediate Algorithm Scripting on #freecodecamp;
