@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 14: Fubruary 27, 2018
+**Today's Progress:** Half way through to finish Intermediate Algorithm Scripting on #freecodecamp;
+
+**Thoughts:** Tomorrow need to work on my side projects, cause looks like I am spending all my time on freecodecamp;
+
+
 ### Day 13: Fubruary 26, 2018
 **Today's Progress:** Worked on task from freecodecamp. I was trying to understand better Regular Expressions. Read (Robust Client-Side JavaScript)[https://molily.de/robust-javascript/];
 
