@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 16: March 01, 2018
+**Today's Progress:** Working on [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l). Got to Section 4. It's all about HTML so far. And I know HTML well, but just interesting to listen Colt. 
+16/ #100DaysOfCode 
+
 ### Day 15: Fubruary 28, 2018
 **Today's Progress:** Enrolled in [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l). I have a lot to do now) 
 15/ #100DaysOfCode 
