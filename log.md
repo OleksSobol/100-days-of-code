@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: March 02, 2018
+**Today's Progress:** I will be working on [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l) for probably next month. Got to Section 5, finished all HTML. Started CSS. 17/ #100DaysOfCode 
+
 
 ### Day 16: March 01, 2018
 **Today's Progress:** Working on [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l). Got to Section 4. It's all about HTML so far. And I know HTML well, but just interesting to listen Colt. 
