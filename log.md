@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+
+
+### Day 18: March 03, 2018
+**Today's Progress:** I am still on this - [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l). Almost finished Section 6, about intermediate css. Soon starting JS again)) Gonna put some code know). 18/ #100DaysOfCode 
+
 ### Day 17: March 02, 2018
 **Today's Progress:** I will be working on [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l) for probably next month. Got to Section 5, finished all HTML. Started CSS. 17/ #100DaysOfCode 
 
