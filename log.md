@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: March 04, 2018
+**Today's Progress:** [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l) - it's really good course, simple and informative.Finished Section 6, about intermediate css. And ... didn't start coding( Cause Section 7 is Bootstrap, but it's ok) I almost finished it. 19/ #100DaysOfCode 
 
 
 ### Day 18: March 03, 2018
