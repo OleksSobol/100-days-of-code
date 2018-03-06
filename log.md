@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: March 05, 2018
+**Today's Progress:** Went back to freecodecamp. Finished couple tasks and than my webpage froze up on task "Sum all odd Fibonacci numbers".After quick search, I reset local storage and looks like that's fixed problem. But I probably did infinity loop so I created project on Github with all my task to get some criticism from you guys =)   20/ #100DaysOfCode 
+
+**Thoughts:** And yeah, I am keep working on Udemy course).
+
+
+
 ### Day 19: March 04, 2018
 **Today's Progress:** [Udemy cource](https://www.udemy.com/the-web-developer-bootcamp/l) - it's really good course, simple and informative.Finished Section 6, about intermediate css. And ... didn't start coding( Cause Section 7 is Bootstrap, but it's ok) I almost finished it. 19/ #100DaysOfCode 
 
