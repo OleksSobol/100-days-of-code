@@ -2,7 +2,7 @@
 
 
 ### Day 21: March 06, 2018
-**Today's Progress:** Did couple tasks from freeCodeCamp. Created github projects with my solution (https://olekssobol.github.io/freeCodeCamp/).Also finished Section 7 Bootstrap - Udemy course.  20/ #100DaysOfCode 
+**Today's Progress:** Did couple tasks from freeCodeCamp. Created github projects with my solution (https://olekssobol.github.io/freeCodeCamp/).Also finished Section 7 Bootstrap - Udemy course.  21/ #100DaysOfCode 
 
 **Thoughts:** I did Image gallery project with Bootstrap. I am thinking to make it one with w3.css for comparing.
 
