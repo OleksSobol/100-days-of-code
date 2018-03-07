@@ -3,7 +3,7 @@
 
 ### Day 22: March 07, 2018
 **Today's Progress:** Made two kind of the same pages of Image Gallery using Bootstrap and W3.CSS. Both framework has cons and pros. I do like simple stuff in W3.CSS, but also Bootstrap is more develop. Here is links to compare:
-(W3.CSS)[https://codepen.io/OleksSobol/full/eMOgdG/] vs (Bootsrap)[https://codepen.io/OleksSobol/full/EQqEXd/]
+[W3.CSS](https://codepen.io/OleksSobol/full/eMOgdG/) vs [Bootsrap](https://codepen.io/OleksSobol/full/EQqEXd/)
 
 
 ### Day 21: March 06, 2018
