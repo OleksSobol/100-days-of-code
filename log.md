@@ -2,7 +2,7 @@
 
 
 
-### Day 24: March 09, 2018The-Web-Developer-bootcamp
+### Day 24: March 09, 2018
 **Today's Progress:** Finished Intermediate Algorithm Scripting at FreeCodeCamp. Got to to Section 10 on Udemy The-Web-Developer-Bootcamp. 
 
 
