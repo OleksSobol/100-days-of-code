@@ -1,8 +1,13 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 24: March 09, 2018The-Web-Developer-bootcamp
+**Today's Progress:** Finished Intermediate Algorithm Scripting at FreeCodeCamp. Got to to Section 10 on Udemy The-Web-Developer-Bootcamp. 
+
+
 ### Day 23: March 08, 2018
-**Today's Progress:** Todat I was less productive. I did couple task on freecodeCamp. Watched couple lecture on Udemy.
+**Today's Progress:** Today I was less productive. I did couple task on freecodeCamp. Watched couple lecture on Udemy.
 
 ### Day 22: March 07, 2018
 **Today's Progress:** Made two kind of the same pages of Image Gallery using Bootstrap and W3.CSS. Both framework has cons and pros. I do like simple stuff in W3.CSS, but also Bootstrap is more develop. Here is links to compare:
