@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+
+
+### Day 26: March 11, 2018
+**Today's Progress:**  Keep working on Advanced Algorithm Scripting Tasks at freeCodeCamp.
+
 ### Day 25: March 10, 2018
 **Today's Progress:** Finished Section 10 Udemy The-Web-Developer-Bootcamp. Started Advanced Algorithm Scripting at freeCodeCamp.
 
