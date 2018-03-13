@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 
+### Day 27: March 12, 2018
+**Today's Progress:**  Took a break)
 
 
 ### Day 26: March 11, 2018
