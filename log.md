@@ -1,9 +1,11 @@
 # 100 Days Of Code - Log
 
 
+### Day 28: March 13, 2018
+**Today's Progress:**  Worked on tasks from freeCodeCamp. Finished couple section on Udemy! 
+
 ### Day 27: March 12, 2018
 **Today's Progress:**  Took a break)
-
 
 ### Day 26: March 11, 2018
 **Today's Progress:**  Keep working on Advanced Algorithm Scripting Tasks at freeCodeCamp.
