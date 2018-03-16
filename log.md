@@ -2,11 +2,14 @@
 
 
 
+### Day 30: March 15, 2018
+**Today's Progress:**  Finished couple tasks on freecodecamp.  
+**Thoughts:** I will try to contibute to open sources projects.
+
+
 ### Day 29: March 14, 2018
 **Today's Progress:**  Got to section 13 on Udemy. 
 **Thoughts:** I am thinking to start own website, but do not about to write, I will figure out).
-
-
 
 ### Day 28: March 13, 2018
 **Today's Progress:**  Worked on tasks from freeCodeCamp. Finished couple section on Udemy! 
