@@ -2,6 +2,9 @@
 
 
 
+### Day 31: March 16, 2018
+**Today's Progress:**  Worked on Udemy course. Got into new challenge on [CodePen.io](https://codepen.io/challenges/2018/march/)
+
 ### Day 30: March 15, 2018
 **Today's Progress:**  Finished couple tasks on freecodecamp.  
 **Thoughts:** I will try to contibute to open sources projects.
