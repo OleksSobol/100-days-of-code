@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-
+### Day 32: March 17, 2018
+**Today's Progress:** working on tasks from freecodecamp. Learned more about DOM.
 
 ### Day 31: March 16, 2018
 **Today's Progress:**  Worked on Udemy course. Got into new challenge on [CodePen.io](https://codepen.io/challenges/2018/march/)
