@@ -3,7 +3,7 @@
 
 
 ### Day 33: March 18, 2018
-**Today's Progress:** Finally started working on the challenges from codepen. Here is my idea! I want to create fast reading app fro poems) [Challenge](https://codepen.io/OleksSobol/pen/dmpazm);
+**Today's Progress:** Finally started working on the challenges from codepen. Here is my idea! I want to create fast reading app for poems) [Challenge](https://codepen.io/OleksSobol/pen/dmpazm);
 
 ### Day 32: March 17, 2018
 **Today's Progress:** working on tasks from freecodecamp. Learned more about DOM.
