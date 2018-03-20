@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
+ 
 
-
+### Day 34: March 19, 2018
+**Today's Progress:** Stuck on the challenge Exact Change from freecodecamp. I guess I hace trouble with math more than with programming))
 
 ### Day 33: March 18, 2018
 **Today's Progress:** Finally started working on the challenges from codepen. Here is my idea! I want to create fast reading app for poems) [Challenge](https://codepen.io/OleksSobol/pen/dmpazm);
