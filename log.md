@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
  
+### Day 35: March 20, 2018
+**Today's Progress:** Finished Exact Change challenge from freecodecamp. Fisnished couple section about DOM on udemy course.
 
 ### Day 34: March 19, 2018
 **Today's Progress:** Stuck on the challenge Exact Change from freecodecamp. I guess I hace trouble with math more than with programming))
