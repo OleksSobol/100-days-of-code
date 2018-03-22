@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
  
+ 
+ 
+### Day 36: March 21, 2018
+**Today's Progress:** Finished almost all Advanced Algorithm Scripting. Left 2 tasks) Started working on Advanced Front End Development Projects from #freecodeCamp.
+ 
 ### Day 35: March 20, 2018
 **Today's Progress:** Finished Exact Change challenge from freecodecamp. Fisnished couple section about DOM on udemy course.
 
