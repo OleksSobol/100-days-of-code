@@ -2,6 +2,10 @@
  
  
  
+  
+### Day 37: March 22, 2018
+**Today's Progress:** Worked on challenge JavaScript Calculator from #freeCodeCamp. Looked into game development in javascript!
+ 
 ### Day 36: March 21, 2018
 **Today's Progress:** Finished almost all Advanced Algorithm Scripting. Left 2 tasks) Started working on Advanced Front End Development Projects from #freecodeCamp.
  
