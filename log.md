@@ -1,7 +1,8 @@
 # 100 Days Of Code - Log
  
  
- 
+ ### Day 37: March 22, 2018
+**Today's Progress:** Keep working on challenge JavaScript Calculator from #freeCodeCamp. Also played a created game from tutorial on MDN with pure JS.[GAME](https://codepen.io/OleksSobol/pen/yKXVdw)
   
 ### Day 37: March 22, 2018
 **Today's Progress:** Worked on challenge JavaScript Calculator from #freeCodeCamp. Looked into game development in javascript!
