@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
  
  
+ 
+ ### Day 39: March 24, 2018
+**Today's Progress:** Finished working on [GAME](https://codepen.io/OleksSobol/pen/yKXVdw)
+ 
+ ### Day 38: March 23, 2018
+**Today's Progress:** Started working on [GAME](https://codepen.io/OleksSobol/pen/yKXVdw)
+ 
  ### Day 37: March 22, 2018
 **Today's Progress:** Keep working on challenge JavaScript Calculator from #freeCodeCamp. Also played a created game from tutorial on MDN with pure JS.[GAME](https://codepen.io/OleksSobol/pen/yKXVdw)
   
