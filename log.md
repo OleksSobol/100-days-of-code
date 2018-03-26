@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
  
- 
+ ### Day 40: March 25, 2018
+**Today's Progress:** worked on JavaScript Calculator, also got back to Udemy course. 
  
  ### Day 39: March 24, 2018
 **Today's Progress:** Finished working on [GAME](https://codepen.io/OleksSobol/pen/yKXVdw)
