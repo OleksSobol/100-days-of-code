@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
- 
+  
+  
+  ### Day 41: March 26, 2018
+  **Today's Progress:** Worked on Udemy course, created [Color Game](https://codepen.io/OleksSobol/pen/bvYRzv). I was interesting in game http://surviv.io -  Really cool. Game made with js+html5 + probably some framework, but I want make something like that too))). 
+  
+  
+  
  ### Day 40: March 25, 2018
 **Today's Progress:** worked on JavaScript Calculator, also got back to Udemy course. 
  
