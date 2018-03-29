@@ -2,7 +2,7 @@
   
   
  ### Day 43: March 28, 2018
- **Today's Progress:** Finihed JS Calculator from #freeCodeCamp!) Looks terrible))) So maybe not finished) I need some review =)  
+ **Today's Progress:** Finihed [JS Calculator](https://codepen.io/OleksSobol/pen/vRmxWo?editors=1000) from #freeCodeCamp!) Looks terrible))) So maybe not finished) I need some review =) 
   
   ### Day 42: March 27, 2018
   **Today's Progress:** I am still working on JS Calculator from #freeCodeCamp!) 
