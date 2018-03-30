@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
   
+    
+ ### Day 44: March 29, 2018
+ **Today's Progress:** Worked on tasks from #beta.freecodecamp. Started learning #phaser framework. I want to create 2d game, something like http://surviv.io. Anyone wants to join? 
   
  ### Day 43: March 28, 2018
  **Today's Progress:** Finihed [JS Calculator](https://codepen.io/OleksSobol/pen/vRmxWo?editors=1000) from #freeCodeCamp!) Looks terrible))) So maybe not finished) I need some review =) 
