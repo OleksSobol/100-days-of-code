@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
   
-    
+     
+ ### Day 45: March 30, 2018
+ **Today's Progress:** Learnt more about ES6. Slowly learning Phaser. Started Building my 2d game; 
+ 
+ 
  ### Day 44: March 29, 2018
  **Today's Progress:** Worked on tasks from #beta.freecodecamp. Started learning #phaser framework. I want to create 2d game, something like http://surviv.io. Anyone wants to join? 
   
