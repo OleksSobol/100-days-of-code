@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
   
+  
+   ### Day 46: March 31, 2018
+ **Today's Progress:** Created concept of my future game.Finished couple lectures from Udemy.In order to make the game I will be need to learn Phaser,  Node.js and Socket.io.My next goals) 
+ 
      
  ### Day 45: March 30, 2018
  **Today's Progress:** Learnt more about ES6. Slowly learning Phaser. Started Building my 2d game; 
