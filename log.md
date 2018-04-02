@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
-  
-  ### Day 47: April 1, 2018
+  
+ ### Day 47: April 1, 2018
  **Today's Progress:** Worked on udemy course about jQuery, also worked on freecodecamp tasks. 
 
  
