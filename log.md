@@ -1,9 +1,13 @@
 # 100 Days Of Code - Log
+
   
+ ### Day 48: April 2, 2018
+ **Today's Progress:** Udemy course, TODO List project. Read about websites on Deep Web.  
+
+
  ### Day 47: April 1, 2018
  **Today's Progress:** Worked on udemy course about jQuery, also worked on freecodecamp tasks. 
 
- 
   ### Day 46: March 31, 2018
  **Today's Progress:** Created concept of my future game.Finished couple lectures from Udemy.In order to make the game I will be need to learn Phaser,  Node.js and Socket.io.My next goals) 
  
