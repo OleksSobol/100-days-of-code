@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 
 
+ ### Day 50: April 4, 2018
+ **Today's Progress:** Finished [PatatapClone](https://olekssobol.github.io/PatatapClone/) and uploaded to GitHub Pages. Golden middle 50 days))).Will continue with front-end projects from #freecodecamp 50/#100DaysOfCode
+
 
  ### Day 49: April 3, 2018
  **Today's Progress:** Finished [TODO List project](https://codepen.io/OleksSobol/pen/jzpYpy). Will start to do next project from #freecodecamp. 49/ #100DaysOfCode
