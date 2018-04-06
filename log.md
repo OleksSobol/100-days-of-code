@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+
+ ### Day 51: April 5, 2018
+ **Today's Progress:** Finished Advanced Algorithm Scripting. Going to work on a Pomodoro Clock
+from #freecodecamp. 51/#100DaysOfCode
+
+
  ### Day 50: April 4, 2018
  **Today's Progress:** Finished [PatatapClone](https://olekssobol.github.io/PatatapClone/) and uploaded to GitHub Pages. Golden middle 50 days))).Will continue with front-end projects from #freecodecamp 50/#100DaysOfCode
 
