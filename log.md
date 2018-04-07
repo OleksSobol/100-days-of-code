@@ -2,6 +2,10 @@
 
 
 
+
+ ### Day 52: April 6, 2018
+ **Today's Progress:** Working on a Pomodoro Clock from #freecodecamp. 52/#100DaysOfCode
+
  ### Day 51: April 5, 2018
  **Today's Progress:** Finished Advanced Algorithm Scripting. Going to work on a Pomodoro Clock
 from #freecodecamp. 51/#100DaysOfCode
