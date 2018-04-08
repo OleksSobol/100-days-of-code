@@ -2,7 +2,7 @@
 
 
  ### Day 53: April 7, 2018
- **Today's Progress:** Still working on a Pomodoro Clock from #freecodecamp.Also was trying to hack couple js games. Was fun to use dev tools from chrome. 52/#100DaysOfCode
+ **Today's Progress:** Still working on a Pomodoro Clock from #freecodecamp.Also was trying to hack couple js games. Was fun to use dev tools from chrome. 53/#100DaysOfCode
 
  ### Day 52: April 6, 2018
  **Today's Progress:** Working on a Pomodoro Clock from #freecodecamp. 52/#100DaysOfCode
