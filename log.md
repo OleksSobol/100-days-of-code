@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+ ### Day 54: April 8, 2018
+ **Today's Progress:** Finished the [Pomodoro Clock](https://codepen.io/OleksSobol/full/MVzJaG/) from #freecodecamp. Start working on Tic Tac Toe Game. Two more projects and I will get my Front End Development Certificate =). 54/#100DaysOfCode
+
 
  ### Day 53: April 7, 2018
  **Today's Progress:** Still working on a Pomodoro Clock from #freecodecamp.Also was trying to hack couple js games. Was fun to use dev tools from chrome. 53/#100DaysOfCode
