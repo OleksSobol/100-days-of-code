@@ -5,6 +5,11 @@
  **Today's Progress:** Trying to figure AI for game Tic Tac Toe Game #freeCodeCamp, I neber built AI before, so I guess I need read a little bit about. 56/#100DaysOfCode
 
 
+
+ ### Day 56: April 10, 2018
+ **Today's Progress:** Kind of finished [Tic Tac Toe Game](https://codepen.io/OleksSobol/full/YadQBq/) #freeCodeCamp. I did not implement AI or really cool design. I went with RANDOM and simple design))) 56/#100DaysOfCode
+
+
  ### Day 55: April 9, 2018
  **Today's Progress:** Did basic structure and basic logic for Tic Tac Toe Game #freeCodeCamp. 55/#100DaysOfCode
 
