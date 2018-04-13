@@ -1,9 +1,13 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 58: April 12, 2018
+ **Today's Progress:** I don't know what shoud I used for next project from #freecodecamp a  Simon Game, pure JS or some game framework??If framework I am thinking about phaser.js. Did couple task from https://beta.freecodecamp.org. A
+ 58//#100DaysOfCode
+
  ### Day 57: April 11, 2018
  **Today's Progress:** Kind of finished [Tic Tac Toe Game](https://codepen.io/OleksSobol/full/YadQBq/) #freeCodeCamp. I did not implement AI or really cool design. I went with RANDOM and simple design))) 57/#100DaysOfCode
-
 
  ### Day 56: April 10, 2018
  **Today's Progress:** Trying to figure AI for game Tic Tac Toe Game #freeCodeCamp, I neber built AI before, so I guess I need read a little bit about. 56/#100DaysOfCode
