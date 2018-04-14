@@ -2,6 +2,9 @@
 
 
 
+### Day 59: April 13, 2018
+ **Today's Progress:** Working on Simon Game #freecodeCamp. I was not expected to be so complicated task. Took awhile to figured algorithm. Will continue tommorow. Codepen stop working for me((( 59//#100DaysOfCode
+
 ### Day 58: April 12, 2018
  **Today's Progress:** I don't know what shoud I used for next project from #freecodecamp a  Simon Game, pure JS or some game framework??If framework I am thinking about phaser.js. Did couple task from https://beta.freecodecamp.org. A
  58//#100DaysOfCode
