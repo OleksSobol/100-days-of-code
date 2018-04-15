@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-
+### Day 60: April 14, 2018
+ **Today's Progress:** Switch to JS Bin. Keeping working on Simon Game from #freecodeCamp. My algorithm is wrong. Need to rethink way of my logic. 60//#100DaysOfCode
 
 ### Day 59: April 13, 2018
  **Today's Progress:** Working on Simon Game #freecodeCamp. I was not expected to be so complicated task. Took awhile to figured algorithm. Will continue tommorow. Codepen stop working for me((( 59//#100DaysOfCode
