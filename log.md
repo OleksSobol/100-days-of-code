@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+
+### Day 61: April 15, 2018
+ **Today's Progress:** Still struggling with Simon Game. Feel week((( 61//#100DaysOfCode
+
 ### Day 60: April 14, 2018
  **Today's Progress:** Switch to JS Bin. Keeping working on Simon Game from #freecodeCamp. My algorithm is wrong. Need to rethink way of my logic. 60//#100DaysOfCode
 
