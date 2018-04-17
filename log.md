@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 
+### Day 63: April 17, 2018
+ **Today's Progress:** Finally finished [THE Simon game](https://codepen.io/OleksSobol/full/wmVard/).63//#100DaysOfCode
 
 ### Day 62: April 16, 2018
  **Today's Progress:** Finally finished logic of the Simon game. Will do some styling tommorrow. 62//#100DaysOfCode
