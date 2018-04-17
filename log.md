@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 62: April 16, 2018
+ **Today's Progress:** Finally finished logic of the Simon game. Will do some styling tommorrow. 62//#100DaysOfCode
+
 ### Day 61: April 15, 2018
  **Today's Progress:** Still struggling with Simon Game. Feel week((( 61//#100DaysOfCode
 
