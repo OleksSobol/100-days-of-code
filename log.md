@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 64: April 18, 2018
+ **Today's Progress:**  I Got it))) [Front-End Web Developer Certificate](https://www.freecodecamp.org/olekssobol/front-end-certification). Worked on personal portfolio.  64/#100DaysOfCode
+
 ### Day 63: April 17, 2018
  **Today's Progress:** Finally finished [THE Simon game](https://codepen.io/OleksSobol/full/wmVard/).63//#100DaysOfCode
 
