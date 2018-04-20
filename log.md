@@ -2,6 +2,9 @@
 
 
 
+### Day 65: April 19, 2018
+ **Today's Progress:**  My personal portfolio looks terrible. I need a lot if time to fix it=) .  65/#100DaysOfCode
+
 ### Day 64: April 18, 2018
  **Today's Progress:**  I Got it))) [Front-End Web Developer Certificate](https://www.freecodecamp.org/olekssobol/front-end-certification). Worked on personal portfolio.  64/#100DaysOfCode
 
